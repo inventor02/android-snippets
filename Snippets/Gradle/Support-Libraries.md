@@ -16,3 +16,5 @@ dependencies {
     compile 'com.android.support:support-v4:25.3.1'
 }
 ```
+
+*Note: You must set the `minSdkVersion` to `17` for these to compile successfully.*
